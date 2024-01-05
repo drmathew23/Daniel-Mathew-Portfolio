@@ -9,15 +9,6 @@ I am a highly motivated and detail-oriented cybersecurity analyst. I actively wo
 
 Seeking opportunities to contribute my technical acumen and enthusiasm for cybersecurity in a professional setting. Eager to apply theoretical knowledge and hands-on experience gained through coursework and practical projects, striving to enhance cyber defenses and mitigate risks.
 
-## EDUCATION
-North Carolina State University, Raleigh, NC      						                                                                           June 2023 <br>
-Bachelor of Science, Information Technology 		
-
-## CERTIFICATIONS
-Comptia Security+ Certification                                                                                                 Expected: Apr 2024 <br>
-CompTIA A+			   	                                				                                                                    Expected: Apr 2024 <br>
-Google Cybersecurity Professional Certification							                                                                   Expected: Feb 2024	<br>
-
 ## Past Projects
 ### Internal Security Audit                                                                                                                                                                Dec 2024
 •Reviewed the company's scope, goals, and risk assessment report. Performed an internal security audit by completing a controls and compliance checklist. Also gave security recommendations for the company.
@@ -42,9 +33,7 @@ Google Cybersecurity Professional Certification							                          
 •Spearheaded development of a highly secure website by integrating advanced cybersecurity measures, including Firewall, Brute Force Protection, Two-Factor Authentication, Malware Detector, Secure Passwords, Role Based Acess Controls (RBAC), and  SSL Certificates <br>
 •Managed and fortified a database of leads with meticulous attention to accurately cataloging and safeguarding Personal Identifiable Information (PII), ensuring compliance with industry standards and regulations. <br>
 
-### Project Management Intern, Homelodgers, Remote		                                                	                                                                         Oct 2023 - Present
-•Produced 4+ high-quality outputs monthly for a US-focused campaign, spanning research articles, visuals, and HTML-coded content <br>
-•Empowered a platform with 10,000+ international users through technical and data-driven marketing campaigns <br>
+
 
 
 
