@@ -9,6 +9,14 @@ I am a highly motivated and detail-oriented cybersecurity analyst. I actively wo
 
 Seeking opportunities to contribute my technical acumen and enthusiasm for cybersecurity in a professional setting. Eager to apply theoretical knowledge and hands-on experience gained through coursework and practical projects, striving to enhance cyber defenses and mitigate risks.
 
+## EDUCATION
+North Carolina State University, Raleigh, NC      						                                                                           June 2023 <br>
+Bachelor of Science, Information Technology 		
+
+## CERTIFICATIONS
+Comptia Security+ Certification                                                                                                 Expected: Apr 2024 <br>
+CompTIA A+			   	                                				                                                                    Expected: Apr 2024 <br>
+Google Cybersecurity Professional Certification							                                                                   Expected: Feb 2024	<br>
 
 ## Past Projects
 ### Internal Security Audit                                                                                                                                                                Dec 2024
