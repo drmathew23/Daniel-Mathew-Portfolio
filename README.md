@@ -19,14 +19,14 @@ My projects can be accessed in the [projects folder](projects).
 ## Skills
 ### Technical
 •Python <br>
-•SQL <br>
-•Linux <br>
-•Security Audit <br>
+•SQL - relational database, joining tables, keyword filters<br>
+•Linux - commands, adding or removing users, editing files, virtual machines<br>
+•Security Audit - <br>
 •Penetration Testing <br>
 •Wireshark <br>
 •tcpdump <br>
 
 ### Other
-•Public Speaking <br>
-•Written Communication <br>
-•Teamwork <br>
+•Public Speaking - I have experience in account management effectively nurturing client relationships and have led team meetings.  <br>
+•Written Communication - Experience writing technical documentation and can effectively correspond with stakeholders. <br>
+•Teamwork - I have experience training and mentoring junior team members and I actively participate in community service. <br>
