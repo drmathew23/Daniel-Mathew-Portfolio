@@ -23,6 +23,8 @@ My projects can be accessed in the [projects folder](projects).
 •Linux <br>
 •Security Audit <br>
 •Penetration Testing <br>
+•Wireshark <br>
+•tcpdump <br>
 
 ### Other
 •Public Speaking <br>
