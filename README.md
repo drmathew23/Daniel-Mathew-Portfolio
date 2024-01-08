@@ -6,19 +6,6 @@ This is my personal portfolio.
 
 Seeking opportunities to contribute my technical acumen and enthusiasm for cybersecurity in a professional setting. Eager to apply theoretical knowledge and hands-on experience gained through coursework and practical projects, striving to enhance cyber defenses and mitigate risks.
 
-## Skills
-### Technical
-•Python 
-•SQL 
-•Linux 
-•Security Audit 
-•Penetration Testing 
-
-### Other
-•Public Speaking 
-•Written Communication 
-•Teamwork 
-
 ## Past Projects
 My projects can be accessed in the [projects folder](projects).
 
@@ -29,5 +16,15 @@ My projects can be accessed in the [projects folder](projects).
 •Designed a robust network solution for a company, incorporating wired and wireless networks, security measures, servers, and essential hardware, ensuring high-speed, secure, and reliable operations in a three-story building. Our proposal includes cost details and comprehensive justifications for product choices.	
 
 
+## Skills
+### Technical
+•Python <br>
+•SQL <br>
+•Linux <br>
+•Security Audit <br>
+•Penetration Testing <br>
 
-
+### Other
+•Public Speaking <br>
+•Written Communication <br>
+•Teamwork <br>
