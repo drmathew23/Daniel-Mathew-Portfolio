@@ -1,5 +1,5 @@
 # Daniel Mathew 
-This is my personal portfolio
+This is my personal portfolio.
 
 ## About Me
 ### 🔒 Aspiring Cybersecurity Professional | IT Graduate | CompTIA Security+ Candidate 🔒
@@ -7,12 +7,17 @@ This is my personal portfolio
 Motivated NC State graduate starting a career in Cybersecurity. Possess a strong work ethic and hands-on professional experience performing threat assessments and vulnerability analyses on networks, simulating cyber attacks to identify weaknesses and strengthen defenses, compiling and presenting detailed security reports to stakeholders, and utilizing threat intelligence to guide strategic security decisions.
 
 ## Skills
-
+### Technical
 •Python <br>
 •SQL <br>
 •Linux <br>
 •Security Audit <br>
 •Penetration Testing <br>
+
+### Other
+•Public Speaking <br>
+•Written Communication <br>
+•Teamwork <br>
 
 ## Past Projects
 ### Internal Security Audit                                                                                                                                                                Dec 2024
