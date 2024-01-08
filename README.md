@@ -4,7 +4,7 @@ This is my personal portfolio.
 ## About Me
 ### 🔒 Aspiring Cybersecurity Professional | IT Graduate | CompTIA Security+ Candidate 🔒
 
-Motivated NC State graduate starting a career in Cybersecurity. Possess a strong work ethic and hands-on professional experience performing threat assessments and vulnerability analyses on networks, simulating cyber attacks to identify weaknesses and strengthen defenses, compiling and presenting detailed security reports to stakeholders, and utilizing threat intelligence to guide strategic security decisions.
+Seeking opportunities to contribute my technical acumen and enthusiasm for cybersecurity in a professional setting. Eager to apply theoretical knowledge and hands-on experience gained through coursework and practical projects, striving to enhance cyber defenses and mitigate risks.
 
 ## Skills
 ### Technical
