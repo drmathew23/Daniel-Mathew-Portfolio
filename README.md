@@ -8,16 +8,16 @@ Seeking opportunities to contribute my technical acumen and enthusiasm for cyber
 
 ## Skills
 ### Technical
-•Python <br>
-•SQL <br>
-•Linux <br>
-•Security Audit <br>
-•Penetration Testing <br>
+•Python 
+•SQL 
+•Linux 
+•Security Audit 
+•Penetration Testing 
 
 ### Other
-•Public Speaking <br>
-•Written Communication <br>
-•Teamwork <br>
+•Public Speaking 
+•Written Communication 
+•Teamwork 
 
 ## Past Projects
 My projects can be accessed in the [projects folder](projects).
