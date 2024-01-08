@@ -20,6 +20,8 @@ Motivated NC State graduate starting a career in Cybersecurity. Possess a strong
 •Teamwork <br>
 
 ## Past Projects
+My projects can be accessed in the [projects folder](projects).
+
 ### Internal Security Audit                                                                                                                                                                Dec 2024
 •Reviewed the company's scope, goals, and risk assessment report. Performed an internal security audit by completing a controls and compliance checklist. Also gave security recommendations for the company.
 
