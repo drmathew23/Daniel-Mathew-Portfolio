@@ -26,7 +26,4 @@ My projects can be accessed in the [projects folder](projects).
 •Wireshark <br>
 •tcpdump <br>
 
-### Other
-•Public Speaking - I have experience in account management effectively nurturing client relationships and have led team meetings.  <br>
-•Written Communication - Experience writing technical documentation and can effectively correspond with stakeholders. <br>
-•Teamwork - I train and mentor junior team members and work well in groups. <br>
+
