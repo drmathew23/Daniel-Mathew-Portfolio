@@ -1,11 +1,6 @@
 # Daniel Mathew 
 This is my personal portfolio.
 
-## About Me
-### 🔒 Aspiring Cybersecurity Professional | IT Graduate | CompTIA Security+ Candidate 🔒
-
-Seeking opportunities to contribute my technical acumen and enthusiasm for cybersecurity in a professional setting. Eager to apply theoretical knowledge and hands-on experience gained through coursework and practical projects, striving to enhance cyber defenses and mitigate risks.
-
 ## Past Projects
 My projects can be accessed in the [projects folder](projects).
 
@@ -17,10 +12,9 @@ My projects can be accessed in the [projects folder](projects).
 
 
 ## Skills
-### Technical
 •Python <br>
-•SQL - relational database, joining tables, keyword filters<br>
-•Linux - commands, adding or removing users, editing files, virtual machines<br>
+•SQL <br>
+•Linux <br>
 •Security Audit - <br>
 •Penetration Testing <br>
 •Wireshark <br>
